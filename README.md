@@ -27,7 +27,7 @@
 
 - **Export Dog List**: Users can export the list of adopted dogs as a CSV or HTML file.
 
-# Screenshots
+## Screenshots
 ![image](https://github.com/AlisaUrsu/Dog-Shelter-Application/assets/115451781/44487550-8861-4a8f-8895-19d44f89d569)
 *Main Window*
 
